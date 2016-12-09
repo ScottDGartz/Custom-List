@@ -1,0 +1,13 @@
+\\banner.main.ad.rit.edu\students\sdg8979\igmprofile\documents\visual studio 2015\Projects\Homework_8\Homework_8\bin\Debug\Homework_8.exe.config
+C:\Users\Scott\Downloads\Homework_8\Homework_8\Homework_8\bin\Debug\Homework_8.exe.config
+C:\Users\Scott\Downloads\Homework_8\Homework_8\Homework_8\bin\Debug\Homework_8.exe
+C:\Users\Scott\Downloads\Homework_8\Homework_8\Homework_8\bin\Debug\Homework_8.pdb
+C:\Users\Scott\Downloads\Homework_8\Homework_8\Homework_8\obj\Debug\Homework_8.csprojResolveAssemblyReference.cache
+C:\Users\Scott\Downloads\Homework_8\Homework_8\Homework_8\obj\Debug\Homework_8.exe
+C:\Users\Scott\Downloads\Homework_8\Homework_8\Homework_8\obj\Debug\Homework_8.pdb
+C:\Users\burni\Downloads\Homework_8\Homework_8\Homework_8\bin\Debug\Homework_8.exe.config
+C:\Users\burni\Downloads\Homework_8\Homework_8\Homework_8\obj\Debug\Homework_8.exe
+C:\Users\burni\Downloads\Homework_8\Homework_8\Homework_8\obj\Debug\Homework_8.pdb
+C:\Users\burni\Downloads\Homework_8\Homework_8\Homework_8\bin\Debug\Homework_8.exe
+C:\Users\burni\Downloads\Homework_8\Homework_8\Homework_8\bin\Debug\Homework_8.pdb
+C:\Users\burni\Downloads\Homework_8\Homework_8\Homework_8\obj\Debug\Homework_8.csprojResolveAssemblyReference.cache
